@@ -20,4 +20,5 @@
  
  <h3 align="left"> Badges from Alura</h3>
  <img align"left" src="https://github.com/FelipeNegrelle/arquivos/blob/f545ed911b54ad91168c31807602ff5a5d1aa552/Badge_-_Primeiro.png" width"200px" heigth"200px">
+ 
  <img align"left" src"https://github.com/FelipeNegrelle/arquivos/blob/f545ed911b54ad91168c31807602ff5a5d1aa552/Badge_-_Github.png" width"200px" heigth"200px">
