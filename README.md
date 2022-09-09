@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Felipe Negrelle</h1>
 <h3 align="center">A frontend developer from Brasil, that loves coffee, games and ever learn new things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipenegrelle&label=Profile%20views&color=5425d4&style=flat" alt="felipenegrelle" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipenegrelle" alt="felipenegrelle" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JS and React Native.**
