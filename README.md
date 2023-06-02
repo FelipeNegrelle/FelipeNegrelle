@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS and React Native.**
 
-- 📫 How to reach me **felipenegrelleramos@gmail.com**
+- 📫 How to reach me **felipenegrelleramos@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
