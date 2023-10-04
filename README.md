@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Felipe Negrelle</h1>
-<h3 align="center">A frontend developer from Brasil, that loves coffee, games and ever learn new things</h3>
+<h3 align="center">A developer from Brasil, that loves coffee, games and learn new things</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipenegrelle" alt="felipenegrelle" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS and React Native.**
+- 🌱 I’m currently learning **Java and React**
 
 - 📫 How to reach me **felipenegrelleramos@protonmail.com**
 
